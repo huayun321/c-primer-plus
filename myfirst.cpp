@@ -1,8 +1,9 @@
 //myfirst.cpp--displays a messages
 
-#include <iostream>
+#include <iostream>  //PREPROCESSOR directive
 
-int main() {
+int main() 
+{
     using namespace std;
     cout << "Come up and C++ me some time.";
     cout << endl;
